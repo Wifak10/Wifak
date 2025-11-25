@@ -1,4 +1,4 @@
-# <h1 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=1AF7FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Wifak+AYEKPOLA;Développeur+Fullstack;Passionné+par+la+création+d'applications;Toujours+en+quête+d'apprentissage" alt="Typing SVG" />
 </h1>
 
@@ -25,6 +25,7 @@ J'aime résoudre les problèmes du quotidien grâce au code et construire des pr
 - Flutter (mobile)
 - Angular
 - TypeScript
+
 ### **Backend**
 - Node.js (Express)  
 - Django  
@@ -50,7 +51,3 @@ J'aime résoudre les problèmes du quotidien grâce au code et construire des pr
 ## 📬 Me contacter
 - Email : **wifakayekpola123@gmail.com**
 - Téléphone / WhatsApp : **(+229) 01 67 53 60 67**
-
-
-- Email : **tonemail@gmail.com**
-- WhatsApp : **(+229) 00 00 00 00**
