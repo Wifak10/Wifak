@@ -3,8 +3,8 @@
 <!-- Bannière identique à Obafemi -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wifak%20AYEKPOLA&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn" />
 
-<!-- Texte qui tape EXACTEMENT comme lui -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00F72D&center=true&vCenter=true&width=500&height=50&lines=Fullstack+Developer;A+programmer+transforms+complexity+into+simplicity" alt="Typing SVG" />
+<!-- Texte qui tape AVEC TES TEXTES EXACTS -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F72D&center=true&vCenter=true&width=500&height=50&lines=Wifak+AYEKPOLA;Welcome+to+my+GitHub+profile" alt="Typing SVG" />
 
 </div>
 
