@@ -1,73 +1,76 @@
-<!-- ANIMATION TITRE -->
+<div align="center">
+<!-- Bannière animée comme ObafemiEuloge -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wifak%20AYEKPOLA&fontSize=50&fontAlign=50&fontAlignY=35&animation=fadeIn" />
+
+<!-- Texte qui tape comme lui -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00F72D&center=true&vCenter=true&width=500&height=50&lines=Fullstack+Developer;Open+Source+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+
+<!-- Badges animés -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1200&color=00C8FF&center=true&vCenter=true&width=800&lines=👋+Hey%2C+I'm+Wifak+AYEKPOLA;Fullstack+Developer;Web+%26+Mobile+Developer;Tech+Enthusiast+from+Benin" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Wifak10&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Wifak10?label=Followers&style=social" alt="GitHub followers" />
 </p>
+</div>
 
----
+<br />
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wifak10&color=brightgreen" />
-  <img src="https://img.shields.io/github/followers/Wifak10?style=social" />
-  <img src="https://img.shields.io/github/stars/Wifak10?style=social" />
-</p>
+<div align="center">
+  
+<!-- Statistiques GitHub EXACTEMENT comme lui -->
+![Wifak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wifak10&show_icons=true&theme=radical&hide_border=true&bg_color=00000000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wifak10&theme=radical&hide_border=true&background=00000000)
 
----
+<!-- Graphique d'activité -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wifak10&theme=react-dark&hide_border=true&area=true)
 
-## 👨‍💻 About Me  
-Hi! I'm **Wifak AYEKPOLA**, a passionate **Fullstack Developer** from Benin 🇧🇯.  
-I build modern, powerful and user-friendly applications.  
-I love solving real problems with technology.
+</div>
 
----
+<br />
 
-## 🚀 Skills & Technologies
+## 🛠️ Tech Stack & Tools
 
-### 🌐 **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,angular,tailwind,flutter" />
-</p>
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=php)
+![Dart](https://img.shields.io/badge/-Dart-000?style=for-the-badge&logo=dart)
 
-### ⚙️ **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,php,laravel,go" />
-</p>
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
 
-### 🗄️ **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-</p>
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?style=for-the-badge&logo=spring-boot)
 
-### 🛠️ **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
-</p>
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=for-the-badge&logo=flutter)
+![React Native](https://img.shields.io/badge/-React_Native-000?style=for-the-badge&logo=react)
 
----
+### **Database**
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-## 📊 GitHub Stats
+### **DevOps & Cloud**
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
 
-<p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Wifak10&show_icons=true&theme=tokyonight" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wifak10&layout=compact&theme=tokyonight" />
-</p>
+<br />
 
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wifak10&theme=onedark&column=6" />
-</p>
-
----
-
-## 🐍 Snake Animation
-<p align="center">
-  <img src="https://github.com/Wifak10/Wifak10/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 📬 Contact Me
-- **Email:** wifakayekpola123@gmail.com  
-- **Phone / WhatsApp:** (+229) 01 67 53 60 67  
+## 📊 Weekly Development Breakdown
+<!-- Cette partie crée le diagramme comme lui -->
+```text
+JavaScript   🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   75.2%
+TypeScript   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩           52.1%
+Python       🟨🟨🟨🟨🟨🟨🟨                 38.7%
+Java         🟪🟪🟪🟪🟪                     25.4%
+Other        🟥🟥🟥                         15.8%
